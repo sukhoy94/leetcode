@@ -3,7 +3,8 @@
 declare(strict_types=1);
 
 
-class Solution {    
+class Solution 
+{    
     /**
      * @param Integer[] $nums
      * @param Integer $target
